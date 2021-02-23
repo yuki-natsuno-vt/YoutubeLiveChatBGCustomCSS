@@ -1,0 +1,29 @@
+/*
+  以下のコードを「Chat v2.0 Style Generator」で生成したCSSコードの最下部にコピペしてください.
+*/
+/* コメント部全体の背景をカスタマイズする */
+yt-live-chat-text-message-renderer,
+yt-live-chat-text-message-renderer[author-type="owner"],
+yt-live-chat-text-message-renderer[author-type="moderator"],
+yt-live-chat-text-message-renderer[author-type="member"] {
+  /* 色は rgba(255,255,255,1) か #16進数カラーコード で指定 */
+  
+  /* 背景色： RGB は 0～255、A は 0.0～1.0 */
+  background-color: rgba(255,234,234,1) !important;
+
+  /* 全体の横幅： ※可変にしたい場合は auto と書き換える*/
+  width: 300px !important;
+
+  /* 塗りつぶし余白： 上側から時計回り */
+  padding: 5px 8px 5px 8px !important;
+
+  /* コメント間の余白： */
+  margin-bottom: 5px !important;
+
+  /* 枠線： */
+  /* 上下左右でコードが分かれているので枠を付けたい方向のコメントアウトを解除する.
+   * 全方向に付けたい場合は一番下の border のみを使う.
+   * solid(1本線) の代わりに double(2本線)、dashed(破線)、dotted(点線) などが使える.
+   */
+  border-left: solid 20px rgba(255,188,188,1) !important;
+}
