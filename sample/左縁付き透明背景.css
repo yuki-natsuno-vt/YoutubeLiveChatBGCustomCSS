@@ -24,3 +24,9 @@ yt-live-chat-text-message-renderer[author-type="member"] {
    */
   border-left: solid 5px rgba(255,255,255,1) !important;
 }
+
+/* 名前の後ろで改行したい場合はこの部分も使う*/
+yt-live-chat-text-message-renderer #message {
+  display: block;
+  margin-top: 5px; /*名前とメッセージの間隔*/
+}
