@@ -3,9 +3,9 @@ Youtube Liveのチャットコメント背景を装飾、カスタムするCSS�
 
 ↓導入方法を解説した動画へのリンクです。
 
-[![](https://img.youtube.com/vi/動画ID/0.jpg)](https://www.youtube.com/watch?v=動画ID)
+[![](https://img.youtube.com/vi/is1ph9Yblm0/0.jpg)](https://www.youtube.com/watch?v=is1ph9Yblm0)
 
-![Preview Image](画像URL)
+![Preview Image](https://pbs.twimg.com/media/EvTiV2rVEAAPJKx?format=png&name=small)
 
 このCSSはYoutubeのLive配信のチャットの見た目を変更する
 **Chat v2.0 Style Generator**で生成したCSSに追記することで機能します。
@@ -35,3 +35,5 @@ Youtubeでの配信活動にのみ利用する事が出来ます、動作損害�
 
 ### 嬉しい
 宣伝やRT、チャンネル登録をしてもらえると嬉しいです ⸜(\*╹꒳╹\*)⸝
+https://twitter.com/yuki_natsuno_vt/status/1365966582061563907
+https://www.youtube.com/channel/UCkve7YZsw5Z7tuTM-HJ1YSQ
